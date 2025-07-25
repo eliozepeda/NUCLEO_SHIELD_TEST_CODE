@@ -1,0 +1,14 @@
+../Core/Src/main.c:138:5:main	32	static
+../Core/Src/main.c:261:6:SystemClock_Config	88	static
+../Core/Src/main.c:308:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:370:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:404:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:450:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:498:6:Read_ADC_Channels	16	static
+../Core/Src/main.c:511:6:Init_MPU6050	8	static
+../Core/Src/main.c:532:6:Load_EEPROM_Header	16	static
+../Core/Src/main.c:584:6:Print_Stored_Events	32	static
+../Core/Src/main.c:630:6:Store_Event_Samples	40	static
+../Core/Src/main.c:679:6:Read_EEPROM	16	static
+../Core/Src/main.c:704:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:741:6:Error_Handler	4	static,ignoring_inline_asm

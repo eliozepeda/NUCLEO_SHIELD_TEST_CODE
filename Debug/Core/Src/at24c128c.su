@@ -1,0 +1,5 @@
+../Core/Src/at24c128c.c:23:26:AT24C128C_WaitForWrite	24	static
+../Core/Src/at24c128c.c:55:19:AT24C128C_WriteByte	32	static
+../Core/Src/at24c128c.c:89:19:AT24C128C_ReadByte	40	static
+../Core/Src/at24c128c.c:123:19:AT24C128C_WriteBuffer	104	static
+../Core/Src/at24c128c.c:175:19:AT24C128C_ReadBuffer	40	static

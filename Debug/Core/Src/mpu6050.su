@@ -1,0 +1,4 @@
+../Core/Src/mpu6050.c:25:19:MPU6050_Init	40	static
+../Core/Src/mpu6050.c:56:19:MPU6050_ReadAll	48	static
+../Core/Src/mpu6050.c:105:7:MPU6050_AccelToAngleX	24	static
+../Core/Src/mpu6050.c:127:7:MPU6050_AccelToAngleY	24	static
